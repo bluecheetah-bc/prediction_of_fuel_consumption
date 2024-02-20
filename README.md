@@ -3,12 +3,6 @@ Prediction_of_Fuel_Consumption
 
 <img alt="BC" src="https://i.pinimg.com/originals/51/13/e4/5113e4472a82a2c4e8e0805703830a3d.jpg" width='500'  align='center'/>
 
-
-
-
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
